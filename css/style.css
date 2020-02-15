@@ -1,5 +1,7 @@
 body{
   font-family: 'Raleway', sans-serif; /* Test for this*/
+  background-color: grey;
+  color:#000000;
   margin: 0;
   padding: 0;
   font-size: 16pt; /* test for this! Make all sizes em or rem */
@@ -10,12 +12,14 @@ h1{
   font-size: 2em;
   text-align: center;
   line-height: 2;
+  color:#000000;
 }
 
 h2{
   font-size: 1.5em;
   text-align: center;
   padding: 5px;
+  colr:#000000;
 }
 
 p {
